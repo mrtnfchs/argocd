@@ -1,8 +1,0 @@
----
-apiVersion: aws.bose.platform/v1alpha1
-kind: XInstance
-metadata:
-  name: demo-instance-2
-spec:
-  networkRange: 10.0.0.0/24
-  serverName: demo-instance-2
