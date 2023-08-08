@@ -1,0 +1,8 @@
+---
+piVersion: aws.bose.platform/v1alpha1
+kind: XInstance
+metadata:
+  name: demo-instance-1
+spec:
+  networkRange: 10.0.0.0/22
+  serverName: demo-instance-1
